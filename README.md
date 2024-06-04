@@ -20,22 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natural ou Fake Natty? Na Era das IAs Generativas!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Vídeo sobre o Parque Nacional da Serra da Capivara/Piauí.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizados a IA Generativa fliki.ai.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A ideia foi criar um vídeo que fosse compartilhado por redes sociais. Vídeo gerado usando o prompt:
+"Agora crie um vídeo sobre a serra da capivara em São Raimundo Nonato."
+Depois foi modificado narrador e introduzido imagens mais adequadas ao texto narrado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O vídeo apresentado desperta a vontade de conhecer Parque Nacional da Serra da Capivara/Piauí.
 ```
 
 ### Exemplos e Insigths
